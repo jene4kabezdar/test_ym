@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 35%;
+}
+
+.table {
+    width: 35%;
+    text-align: left;
+    border-spacing: 20px 0;
+}
+
+.table th.th-blue {
+    background: #abcdef;
+    color: white;
+}
+
+.table th {
+    font-weight: bold;
+    padding: 10px;
+    border-bottom: solid #ffff7a;
+}
+
+.table td.td-blue {
+    font-weight: bold;
+    background: #abcdef;
+    color: white;
+}
+
+.table td {
+    padding: 10px;
+}
+
